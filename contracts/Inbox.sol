@@ -11,6 +11,6 @@ contract Inbox {
     }
 
     function setMessage(string newMessage) public {
-        message = newMessagel
+        message = newMessage;
     }
 }
